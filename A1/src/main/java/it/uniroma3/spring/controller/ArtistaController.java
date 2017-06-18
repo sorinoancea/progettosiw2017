@@ -24,7 +24,7 @@ import it.uniroma3.spring.model.Artista;
 import it.uniroma3.spring.model.User;
 import it.uniroma3.spring.service.ArtistaService;
 import it.uniroma3.spring.service.OperaService;
-//prova2
+//prova
 @Controller
 public class ArtistaController {
 	@InitBinder
